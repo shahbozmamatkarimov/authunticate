@@ -54,7 +54,7 @@
                 alt=""
               />
               <div>
-                <h1 class="font-bold pt-2 pb-4">Our Message</h1>
+                <h1 class="font-bold text-black pt-2 pb-4">Our Message</h1>
                 <p>
                   Your page has been scheduled for deletion because one of the
                   following resons:
