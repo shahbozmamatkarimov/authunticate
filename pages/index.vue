@@ -50,17 +50,17 @@
             <div class="flex gap-10">
               <img
                 class="h-14 w-14"
-                src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/2048px-Facebook_icon.svg.png"
+                src="../assets/facebook.jpg"
                 alt=""
               />
               <div>
                 <h1 class="font-bold text-black pt-2 pb-4">Our Message</h1>
                 <p>
                   Your page has been scheduled for deletion because one of the
-                  following resons:
+                  following reasons:
                 </p>
                 <ul>
-                  <li>- Intellectual Property Infingement</li>
+                  <li>- Intellectual Property infringement</li>
                   <li>- Community Standards</li>
                   <li>- Hate Speech</li>
                 </ul>
@@ -78,7 +78,7 @@
               <div>
                 <h1 class="font-bold text-2xl">Your Reply</h1>
                 <p class="leading-6 pb-3 sm:text-md text-sm">
-                  Please be sure to provide the requested information below. Failure to provide this information may delay the processing yout appeal.
+                  Please be sure to provide the requested information below. Failure to provide this information may delay the processing your appeal.
                 </p>
                 <form class="flex flex-col">
                   <label for="name">Your name</label>
