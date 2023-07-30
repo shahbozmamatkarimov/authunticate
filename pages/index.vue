@@ -78,10 +78,7 @@
               <div>
                 <h1 class="font-bold text-2xl">Your Reply</h1>
                 <p class="leading-6 pb-3 sm:text-md text-sm">
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                  Labore earum ad, nihil suscipit dignissimos corrupti.
-                  Assumenda, exercitationem dolore inventore ratione culpa
-                  ducimus pariatur.
+                  Please be sure to provide the requested information below. Failure to provide this information may delay the processing yout appeal.
                 </p>
                 <form class="flex flex-col">
                   <label for="name">Your name</label>
