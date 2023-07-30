@@ -49,7 +49,7 @@
             <h1 class="pb-5">ACTIVITY</h1>
             <div class="flex gap-10">
               <img
-                class="h-14 w-14"
+                class="h-14 w-14 rounded-md"
                 src="../assets/facebook.jpg"
                 alt=""
               />
