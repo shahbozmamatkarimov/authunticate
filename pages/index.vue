@@ -20,7 +20,7 @@
         <div class="absolute w-full md:h-[20rem] h-[40rem]">
           <img
             class="w-full h-full object-cover"
-            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGtFbS8nAHAzeXiihZ85hkpKl-zFYY8lWO1w&usqp=CAU"
+            src="../assets/bgImage.jpg"
             alt=""
           />
         </div>
